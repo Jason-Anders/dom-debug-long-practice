@@ -14,7 +14,7 @@ export function changeAboutMe() {
     /* Update the first paragraph in the About Me section with a small
      passage about yourself */
 
-     document.body.children[1].children[1].innerText = "I was the boss at my last formal job. After 10 years there I inherited a business that I soley operate and own. Now I am learning to update the website that it was coded on as the Big Boss Man. Go Big or Go Home."
-
+     document.body.children[1].children[1].innerText = "I was the boss at my last job for 10 years. I left there after I inherited a business that I soley operate and own. Now I am learning to write software so I can update my buisness website and move forward by building new things."
+    // document.body.children[1].children[2].innerText = '';
     // Your code here
 }
