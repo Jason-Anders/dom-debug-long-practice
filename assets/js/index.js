@@ -1,3 +1,5 @@
+import { changeAboutMe, changeHeader, changeTitle } from "./manipulate.js";
+import { findElementById, findElementsOfClass, findFirstElementOfClass, findFirstElementOfTag, findElementsOfTag } from "./search.js";
 
  window.onload = () => {
  changeTitle();
