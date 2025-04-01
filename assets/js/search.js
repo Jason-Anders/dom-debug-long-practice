@@ -13,7 +13,7 @@ export function findFirstElementOfTag(tag) {
 
 const tags = document.getElementsByTagName(tag);
 return tags[0];
-return goThruDOM(document.body.children)
+// return goThruDOM(document.body.children)
 }
 
 export function findFirstElementOfClass(cls) {
