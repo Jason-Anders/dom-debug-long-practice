@@ -1,6 +1,10 @@
 export function findElementById(id) {
     // Return the element in the DOM with corresponding `id`
-
+    const allKids = document.body.children
+    for (const kid of allKids) {
+        if (kid.id===id){return kid}
+    }
+    return null
     // Your code here
 }
 
