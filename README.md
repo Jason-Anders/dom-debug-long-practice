@@ -15,7 +15,7 @@ browser and follow the instructions below.
 
 You will be provided an __index.html__ file within the __assets__ folder that
 contains a basic portfolio site. Connect the __/assets/js/index.js__ to the HTML
-page to execute it once the HTML page loads the JavaScript file. Load is as a
+page to execute it once the HTML page loads the JavaScript file. Load it as a
 JavaScript module.
 
 Make sure the code in the __index.js__ file executes only after everything on
